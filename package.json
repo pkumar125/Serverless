@@ -1,0 +1,11 @@
+{
+  "name": "serverless",
+  "version": "1.0.0",
+  "description": "Test serverless with AWS API Gateway and nodejs",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mandakini",
+  "license": "ISC"
+}
